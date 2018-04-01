@@ -17,7 +17,9 @@ https://github.com/chihiroyn/sqlite-sample/archive/master.zip
 を落として、  
 解凍して、  
 中身をホームディレクトリ（C:\Users\(アカウント名)）  
-直下に置く
+直下に置く。  
+  
+フォルダ名は、「sqlite-sample」に変える。  
   
 ■ 実行してみる  
   
