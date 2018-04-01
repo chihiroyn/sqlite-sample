@@ -1,50 +1,50 @@
-Python + SQLiteiƒGƒXƒLƒ…[ƒ‰ƒCƒgB’´ŠÈ‘f‚Èƒ[ƒJƒ‹RDBMSj‚Å
-ŠÈ’P‚ÉSQL‚ðŽ©K‚·‚é‚½‚ß‚ÌPythonƒXƒNƒŠƒvƒgB
+Python + SQLiteï¼ˆã‚¨ã‚¹ã‚­ãƒ¥ãƒ¼ãƒ©ã‚¤ãƒˆã€‚è¶…ç°¡ç´ ãªãƒ­ãƒ¼ã‚«ãƒ«RDBMSï¼‰ã§  
+ç°¡å˜ã«SQLã‚’è‡ªç¿’ã™ã‚‹ãŸã‚ã®Pythonã‚¹ã‚¯ãƒªãƒ—ãƒˆã€‚  
+  
+http://www.atmarkit.co.jp/ait/articles/0508/31/news092.html  
+åŸºæœ¬æƒ…å ±æŠ€è¡“è€…è©¦é¨“è¬›åº§ï¼ˆ4ï¼‰ï¼š
+SQLã§ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ã‚’æ“ä½œã—ã‚ˆã†
 
-http://www.atmarkit.co.jp/ait/articles/0508/31/news092.html
-Šî–{î•ñ‹ZpŽÒŽŽŒ±uÀi4jF
-SQL‚Åƒf[ƒ^ƒx[ƒX‚ð‘€ì‚µ‚æ‚¤
+ã«æ›¸ã„ã¦ã‚ã‚‹SQLæ–‡ã‚’è©¦ã›ã‚‹ã€‚
 
-‚É‘‚¢‚Ä‚ ‚éSQL•¶‚ðŽŽ‚¹‚éB
-
-¡ Windows”ÅPython‚ð“ü‚ê‚é
-ŽQlF
+â–  Windowsç‰ˆPythonã‚’å…¥ã‚Œã‚‹
+å‚è€ƒï¼š
 https://qiita.com/taiponrock/items/f574dd2cddf8851fb02c
 
-¡ Git for Windows”ÅGit‚ð“ü‚ê‚é
+â–  Git for Windowsç‰ˆGitã‚’å…¥ã‚Œã‚‹
 https://gitforwindows.org/
 
-¡ ‚±‚ÌGithubƒŠƒ|ƒWƒgƒŠ‚ðŽ©•ª‚ÌPC‚ÉŽæ‚èž‚Þ
+â–  ã“ã®Githubãƒªãƒã‚¸ãƒˆãƒªã‚’è‡ªåˆ†ã®PCã«å–ã‚Šè¾¼ã‚€
 
-ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ð—§‚¿ã‚°‚Ä
-iƒXƒ^[ƒgƒƒjƒ…[ ¨ Windows ƒVƒXƒeƒ€ ƒc[ƒ‹ ¨ ƒRƒ}ƒ“ƒh ƒvƒƒ“ƒvƒgjA
+ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚’ç«‹ã¡ä¸Šã’ã¦
+ï¼ˆã‚¹ã‚¿ãƒ¼ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼ â†’ Windows ã‚·ã‚¹ãƒ†ãƒ  ãƒ„ãƒ¼ãƒ« â†’ ã‚³ãƒžãƒ³ãƒ‰ ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆï¼‰ã€
 
 git clone https://github.com/chihiroyn/sqlite-sample.git
 
-‚½‚Á‚½‚±‚ê‚¾‚¯‚ÅOKI
+ãŸã£ãŸã“ã‚Œã ã‘ã§OKï¼
 
-¡ ŽÀs‚µ‚Ä‚Ý‚é
+â–  å®Ÿè¡Œã—ã¦ã¿ã‚‹
 
-ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ÅA
+ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã§ã€
 cd sqlite-sample
 
 python sample.py
 
-³‚µ‚­ƒZƒbƒgƒAƒbƒv‚Å‚«‚Ä‚¢‚ê‚ÎA‚±‚ê‚ÅŒ‹‰Ê‚ª“¾‚ç‚ê‚éB
+æ­£ã—ãã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã§ãã¦ã„ã‚Œã°ã€ã“ã‚Œã§çµæžœãŒå¾—ã‚‰ã‚Œã‚‹ã€‚
 
-¡ SQL‚ð‚¢‚ë‚¢‚ë‚¢‚¶‚Á‚Ä‚Ý‚é
+â–  SQLã‚’ã„ã‚ã„ã‚ã„ã˜ã£ã¦ã¿ã‚‹
 
-usqlite-samplevƒtƒHƒ‹ƒ_‚Ì’†‚Ì
-udatabase.pyv
-‚ÌAˆê”ÔŒã‚ëAuselect_datavƒƒ\ƒbƒh‚Ì’†‚ÉA
-SELECT•¶‚ª‚¢‚ë‚¢‚ë‘‚¢‚Ä‚ ‚è‚Ü‚·B
+ã€Œsqlite-sampleã€ãƒ•ã‚©ãƒ«ãƒ€ã®ä¸­ã®
+ã€Œdatabase.pyã€
+ã®ã€ä¸€ç•ªå¾Œã‚ã€ã€Œselect_dataã€ãƒ¡ã‚½ãƒƒãƒ‰ã®ä¸­ã«ã€
+SELECTæ–‡ãŒã„ã‚ã„ã‚æ›¸ã„ã¦ã‚ã‚Šã¾ã™ã€‚
 
-‚±‚±‚ð‚¢‚ë‚¢‚ëG‚Á‚ÄA
+ã“ã“ã‚’ã„ã‚ã„ã‚è§¦ã£ã¦ã€
 
 python sample.py
 
-‚µ‚Ä‚©‚çA“®ì‚ðŠm”F‚µ‚Ä‚Ý‚æ‚¤B
+ã—ã¦ã‹ã‚‰ã€å‹•ä½œã‚’ç¢ºèªã—ã¦ã¿ã‚ˆã†ã€‚
 
-ˆÈã
+ä»¥ä¸Š
 
-‚ª‚ñ‚Î‚êI
+ãŒã‚“ã°ã‚Œï¼
